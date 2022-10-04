@@ -1,0 +1,9 @@
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\bin\Debug\DirectorioTelefonicoCsharp.exe.config
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\bin\Debug\DirectorioTelefonicoCsharp.exe
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\bin\Debug\DirectorioTelefonicoCsharp.pdb
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\obj\Debug\DirectorioTelefonicoCsharp.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\obj\Debug\DirectorioTelefonicoCsharp.frmPrincipal.resources
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\obj\Debug\DirectorioTelefonicoCsharp.Properties.Resources.resources
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\obj\Debug\DirectorioTelefonicoCsharp.csproj.GenerateResource.Cache
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\obj\Debug\DirectorioTelefonicoCsharp.exe
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\DirectorioTelefonicoCsharp\DirectorioTelefonicoCsharp\obj\Debug\DirectorioTelefonicoCsharp.pdb
